@@ -109,3 +109,6 @@ Python - Variable Names (Rules and Conventions)
         e.g. strFirstName, arrUserNames for Systems; rwPosition, pchName for Apps.
 
 """
+
+# Source-1: https://www.codewithharry.com/videos/python-tutorial-easy-for-beginners
+# Source-2: https://www.w3schools.com/
